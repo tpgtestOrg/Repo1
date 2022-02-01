@@ -1,2 +1,2 @@
-new file
+try to conflict
 This is tet file for repo merge
