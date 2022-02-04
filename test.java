@@ -4,5 +4,6 @@ class Simple{
         readjdjfd
             fdfdfksdfjsd
             updated 7.22
+            test
     }  
 }  
