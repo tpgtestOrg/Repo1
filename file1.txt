@@ -1,2 +1,2 @@
-new file
-This is tet file for repo merge
+to resolve is tet file for repo merge
+
